@@ -1,4 +1,5 @@
 <h1>超级无敌牛马爆炸测试<h1>
+  <meta charset="utf-8"> 
   <style>
     body
     {
