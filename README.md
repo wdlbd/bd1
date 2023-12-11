@@ -1,5 +1,5 @@
 <h1>超级无敌牛马爆炸测试<h1>
-  style>
+  <style>
     body
     {
         background-color:#cccccc;
