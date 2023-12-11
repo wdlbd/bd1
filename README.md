@@ -4,9 +4,10 @@
 <meta charset="utf-8"> 
 <title>大赦天下</title> 
 <style>
-body
-{
-	background-color:#b0c4de;
+#grad1 {
+    height: 200px;
+	background-color: red; /* 浏览器不支持时显示 */
+    background-image: linear-gradient(#e66465, #9198e5);
 }
 </style>
 </head>
