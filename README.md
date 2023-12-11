@@ -7,7 +7,7 @@
 #grad1 {
     height: 200px;
 	background-color: red; /* 浏览器不支持时显示 */
-    background-image: linear-gradient(#e66465, #9198e5);
+    background-image: linear-gradient(#0000FF, #CDC673);
 }
 </style>
 </head>
