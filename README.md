@@ -1,4 +1,10 @@
 <h1>超级无敌牛马爆炸测试<h1>
+  style>
+    body
+    {
+        background-color:#cccccc;
+    }
+</style>
 <img src="yrhpa14i.png"/>
 <h1>咏鹅<h1>
 <p>鹅鹅鹅<p>
